@@ -1,0 +1,88 @@
+    1  pwd
+    2  ls
+    3  ls
+    4  cd test
+    5  pwd
+    6  mkdir inside_drive
+    7  ls
+    8  mkdir inside drive
+    9  rmdir inside
+   10  ls
+   11  rmdir inside_drive drive/
+   12  ls
+   13  touch f1.py
+   14  ls
+   15  touch f2.sql f3.txt f4.php
+   16  ls
+   17  cat f3.txt
+   18  nano f1.py
+   19  cat f1.py 
+   20  nano f1.py 
+   21  cat f1.py 
+   22  nano f1.py 
+   23  nano f1.py 
+   24  cat f1.py 
+   25  ls
+   26  nano f5.txt
+   27  ls
+   28  hisrtory
+   29  history
+   30  history >> cmd_use.txt
+    1  pwd
+    2  ls
+    3  ls
+    4  cd test
+    5  pwd
+    6  mkdir inside_drive
+    7  ls
+    8  mkdir inside drive
+    9  rmdir inside
+   10  ls
+   11  rmdir inside_drive drive/
+   12  ls
+   13  touch f1.py
+   14  ls
+   15  touch f2.sql f3.txt f4.php
+   16  ls
+   17  cat f3.txt
+   18  nano f1.py
+   19  cat f1.py 
+   20  nano f1.py 
+   21  cat f1.py 
+   22  nano f1.py 
+   23  nano f1.py 
+   24  cat f1.py 
+   25  ls
+   26  nano f5.txt
+   27  ls
+   28  hisrtory
+   29  history
+   30  history >> cmd_use.txt
+   31  ls
+   32  ls -a
+   33  git init
+   34  cd test/
+   35  hidtory
+   36  history
+   37  git status
+   38  pwd
+   39  ls
+   40  cd test/
+   41  mkdir dir1 dir2
+   42  ls
+   43  touch file1.py fil2.txt
+   44  ls
+   45  cat file1.txt
+   46  cat file1.py
+   47  nano file1.py
+   48  cat file1.py
+   49  nano file1.py
+   50  cat file1.py 
+   51  rm -f dir1/
+   52  ls
+   53  rm -r dir1/
+   54  ls
+   55  rmdir dir2/
+   56  ls
+   57  history
+   58  history >> cmd_use.txt
